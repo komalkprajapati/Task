@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const destinationSchema = mongoose.Schema({
     name : String,
-    Image :String,
+    image :String,
     price:String
 })
 
